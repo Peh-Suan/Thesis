@@ -15,6 +15,7 @@
 \usepackage{refcount}
 \usepackage{xstring}
 \usepackage{makecell}
+\usepackage{hhline}
 
 \usepackage{caption}
 \usepackage{subcaption}
@@ -132,7 +133,7 @@
 %===Introduction===
 \chapter{Introduction}\label{chapter:Introduction}
 
-Test Sinitic languages as tone languages make use of pitch height and contour to make phonemeic contrasts for lexical tones. For instance, Taiwan Mandarin, one of the Sinitic languages, has four lexical tones: T1, T2, T3, and T4, with T1 being a high-level (55) tone, T2 a mid-rising (35) tone, T3 a low-falling/level (21) tone, and T4 a high-falling (51) tone. In Taiwan Southern Min, another Sinitic language, there are 7 tones: T1, T2, T3, T4, T5, T7, and T8, with T1 being a high level (55) tone, T2 a high-falling (51) tone, T3 a low level (21) tone, T4 a mid-checked (32) tone, T5 a mid-rising (35) tone, T7 a mid-level (33) tone, and T8 a high-checked (54) tone. While ideally, these tones can be differentiated from each other with their respective pitch values and/or pitch contours, in real-world communication, the actual acoustic realizations of the lexical tones are highly variable, subject to factors including prosody \citep{Peng1997}, syllable duration \citep{XuWang2009}, and tonal coarticulation (\citealp{Shen1990}; \citealp{Xu1994}; \citealp{Peng1997}; \citeyear{Xu1997}; \citealp{Wang2002}; \citealp{ChangHsieh2012}). In this paper, we center into the last factor, that is, tonal coarticulation, where a target tone's pitch value and/or pitch contour varies owing to preceding and/or following tones, to the extent that it might be acoustically similar to another lexical tone. Specifically, we focus on the perception and production of tonal coarticulation in two Sinitic languages: Taiwan Mandarin and Taiwan Southern Min.
+Sinitic languages as tone languages make use of pitch height and contour to make phonemeic contrasts for lexical tones. For instance, Taiwan Mandarin, one of the Sinitic languages, has four lexical tones: T1, T2, T3, and T4, with T1 being a high-level (55) tone, T2 a mid-rising (35) tone, T3 a low-falling/level (21) tone, and T4 a high-falling (51) tone. In Taiwan Southern Min, another Sinitic language, there are 7 tones: T1, T2, T3, T4, T5, T7, and T8, with T1 being a high level (55) tone, T2 a high-falling (51) tone, T3 a low level (21) tone, T4 a mid-checked (32) tone, T5 a mid-rising (35) tone, T7 a mid-level (33) tone, and T8 a high-checked (54) tone. While ideally, these tones can be differentiated from each other with their respective pitch values and/or pitch contours, in real-world communication, the actual acoustic realizations of the lexical tones are highly variable, subject to factors including prosody \citep{Peng1997}, syllable duration \citep{XuWang2009}, and tonal coarticulation (\citealp{Shen1990}; \citealp{Xu1994}; \citealp{Peng1997}; \citeyear{Xu1997}; \citealp{Wang2002}; \citealp{ChangHsieh2012}). In this paper, we center into the last factor, that is, tonal coarticulation, where a target tone's pitch value and/or pitch contour varies owing to preceding and/or following tones, to the extent that it might be acoustically similar to another lexical tone. Specifically, we focus on the perception and production of tonal coarticulation in two Sinitic languages: Taiwan Mandarin and Taiwan Southern Min.
 
 %\begin{figure}[hbt!]
 %\centering
@@ -147,31 +148,31 @@ However, things might be complicated when we turn to Taiwan Southern Min. In Man
 
 \begin{flushleft}
 \begin{table}[hbt!]
-\begin{tabularx}{\textwidth}{|l|l||X|X|X|X|}
-\hline
+\begin{tabularx}{\textwidth}{ll|X|X|X|X|}
+\hhline{~~----}
  & & T1 (55) & T2 (35) & T3 (21(4)) & T4 (51)\\
- \hline
- \hline
-\multirow{2}{*}{Carry-over} & Raised & - & T1 (55) & T4 (51) & -\\
-& Lowered & T2 (35) & - & - & T3 (21)\\
-\hline
-\multirow{2}{*}{Anticipatory} & Raised & - & - & T2 (35) & T1 (55) \\
-& Lowered & T4 (51) & T3 (214) & - & -\\
-\hline
+\hhline{~~|----}\noalign{\vspace*{\doublerulesep}}
+\hhline{--||----}
+\multicolumn{1}{|l}{\multirow{2}{*}{Carry-over}} & \multicolumn{1}{l||}{Raised} & - & T1 (55) & T4 (51) & -\\
+\multicolumn{1}{|l}{}& \multicolumn{1}{l||}{Lowered} & T2 (35) & - & - & T3 (21)\\
+\hhline{--||----}
+\multicolumn{1}{|l}{\multirow{2}{*}{Anticipatory}} & \multicolumn{1}{l||}{Raised} & - & - & T2 (35) & T1 (55) \\
+\multicolumn{1}{|l}{}& \multicolumn{1}{l||}{Lowered} & T4 (51) & T3 (214) & - & -\\
+\hhline{--||----}
 \end{tabularx}
 \break
 \break
-\begin{tabularx}{\textwidth}{|l|l||X|X|X|X|X|}
-\hline
+\begin{tabularx}{\textwidth}{ll|X|X|X|X|X|}
+\hhline{~~-----}
  & & T1/T2' (55) & T2/T3' (51) & T3/T7' (21) & T5 (35) & T7/T1' (33)\\
- \hline
- \hline
-\multirow{2}{*}{Carry-over} & Raised & - & - & T7 (33); T2 (51) & T1 (55) & T1 (55); T2 (51)\\
-& Lowered & T5 (35); T7 (33) & T7 (33); T3 (21) & - & - & T3 (21)\\
-\hline
-\multirow{2}{*}{Anticipatory} & Raised & - & T2' (55) & T1' (33) & - & T2' (55) \\
-& Lowered & T1' (33); T3' (51) & - & - & T1' (33) & T7' (21)\\
-\hline
+\hhline{~~|-----}\noalign{\vspace*{\doublerulesep}}
+\hhline{--||-----}
+\multicolumn{1}{|l}{\multirow{2}{*}{Carry-over}} & \multicolumn{1}{l||}{Raised} & - & - & T7 (33); T2 (51) & T1 (55) & T1 (55); T2 (51)\\
+\multicolumn{1}{|l}{}& \multicolumn{1}{l||}{Lowered} & T5 (35); T7 (33) & T7 (33); T3 (21) & - & - & T3 (21)\\
+\hhline{--||-----}
+\multicolumn{1}{|l}{\multirow{2}{*}{Anticipatory}} & \multicolumn{1}{l||}{Raised} & - & T2' (55) & T1' (33) & - & T2' (55) \\
+\multicolumn{1}{|l}{}& \multicolumn{1}{l||}{Lowered} & T1' (33); T3' (51) & - & - & T1' (33) & T7' (21)\\
+\hhline{--||-----}
 \end{tabularx}
 \caption{Probable variations of Taiwan Mandarin (top) and Taiwan Southern Min (bottom) lexical tones under types of coarticulation}
 \label{table:Probablevariations}
@@ -237,15 +238,15 @@ In this section, we introduce tonal coarticulation, which refers to the tone var
 
 \begin{flushleft}
 \begin{table}[hbt!]
-\begin{tabularx}{\textwidth}{|l|X|X|}
-\hline
+\begin{tabularx}{\textwidth}{l|X|X|}
+\hhline{~--}
  & Magnitude & Direction \\
- \hline
- \hline
-Carry-over & Strong & Assimilatory\\
-\hline
-Anticipatory & Weak & Dissimilatory\\
-\hline
+\hhline{~|--}\noalign{\vspace*{\doublerulesep}}
+\hhline{-||--}
+\multicolumn{1}{|l||}{Carry-over} & Strong & Assimilatory\\
+\hhline{-||--}
+\multicolumn{1}{|l||}{Anticipatory} & Weak & Dissimilatory\\
+\hhline{-||--}
 \end{tabularx}
 \caption{Typological distribution of tonal coarticulation}
 \label{table:Typologicaldistribution}
@@ -335,7 +336,7 @@ While it is established in the literature that the pitch values of Mandarin tone
 
 \subsection{Participants}
 
-This study recruited 42 Taiwanese college students (25 females; 20–27 y.o., mean=21.95) as participants. 15 of them were native speakers of Taiwan Mandarin. These subjects were not speakers of Taiwan Southern Min (upon self-report). These speakers are hereafter refereed to as the monolingual group. 27 of them were native speakers of Taiwan Southern Min. These subjects were also speakers of Taiwan Mandarin. These speakers are referred to as the bilingual group. Among the bilingual speakers, 11 speakers were advanced Taiwan Southern Min speakers, with self-reported points of 8 or higher on a fluency scale from 1–10. These 10 speakers are referred to as the advanced bilingual group. The rest of the bilingual speakers are referred to as the intermediate bilingual group. All of the subjects were not speakers of other tonal languages. See Appendix \ref{Appendix:ParticipantInfo} for a full list of the participants. 
+This study recruited 43 Taiwanese college students (25 females; 20–27 y.o., mean=21.93) as participants. 15 of them were native speakers of Taiwan Mandarin. These subjects were not speakers of Taiwan Southern Min (upon self-report). These speakers are hereafter refereed to as the monolingual group. 28 of them were native speakers of Taiwan Southern Min. These subjects were also speakers of Taiwan Mandarin. These speakers will be referred to as the bilingual group. Among the bilingual speakers, 11 speakers were advanced Taiwan Southern Min speakers, with self-reported points of 8 or higher on a fluency scale from 1–10. These 11 speakers will be referred to as the advanced bilingual group. The rest of the bilingual speakers will be referred to as the intermediate bilingual group. All of the subjects were not speakers of other tonal languages. See Appendix \ref{Appendix:ParticipantInfo} for a full list of the participants. 
 
 For Experiment 1, only the monolingual speakers\footnote{Except for P22.} and the advanced bilingual speakers participated. The monolingual speakers produced the Mandarin stimuli; the bilingual speakers produced both the Southern Min and Mandarin stimuli.
 
@@ -348,7 +349,7 @@ To examine the influence of ambient tones on the target tones, a disyllabic word
 The audio data were collected with a microphone (Audio–Technica Carcoid AT2035) plus a portable audio interface (USBPre 2), and saved as WAV files, with a sampling frequency of 44100 Hz.
 
 \subsection{Procedure}
-Subjects were first led through a list of the stimuli they would encounter, and made sure they are familiar with the words. The stimuli were then randomly presented on a MacBook Pro (13-inch, 2018) one at a time. For Taiwan Mandarin group, stimuli were presented in Traditional Chinese characters; for Taiwan Southern Min group, stimuli were presented in both Traditional Chinese characters and romanized forms, with their Mandarin glosses underneath. Subjects were asked to say the word when they saw it, at a relaxed pace. Subjects might press the button and proceed to the next word when they were ready. The stimuli were divided into two blocks, with a break in between. The whole process took about 10 minutes for Taiwan Mandarin group and 30 minutes for Taiwan Southern Min group.
+Subjects were first led through a list of the stimuli they would encounter, and made sure they are familiar with the words. The stimuli were then randomly presented on a MacBook Pro (13-inch, 2018) one at a time. For Taiwan Mandarin group, stimuli were presented in Traditional Chinese characters; for Taiwan Southern Min group, stimuli were presented in both Traditional Chinese characters and romanized forms, with their Mandarin glosses underneath. Subjects were asked to say the word when they saw it, at a relaxed pace. Subjects might press the button and proceed to the next word when they were ready. The stimuli were divided into two blocks, with a break in between. The whole process took about 10 minutes for Taiwan Mandarin group and 30 minutes for Taiwan Southern Min group. This experiment was done after Experiments 2 and 3.
 
 \subsection{Data processing}
 \subsubsection{Labeling}
@@ -513,7 +514,42 @@ Tonal coarticulation of Taiwan Mandarin and Taiwan Southern Min in carry-over an
 \label{Figure:LMMAnticipatory}
 \end{figure}
 
-In general, tonal coarticulation in Taiwan Mandarin and Taiwan Southern Min were almost identical in both directionality and magnitudes. Symmetries were found in both languages, and no difference of magnitude was found.
+In general, tonal coarticulation in Taiwan Mandarin and Taiwan Southern Min were almost identical in both directionality and magnitudes. Symmetries were found in both languages, and no difference of magnitude was found. This can be summarized in tables \ref{table:MandarinMinDistribution} and \ref{table:MandarinMinDistributionComparison}.
+
+\begin{flushleft}
+\begin{table}[hbt!]
+\begin{tabularx}{\textwidth}{l|X|X|}
+\cline{2-3}
+ & Magnitude & Direction \\
+%\hhline{-::==}
+\hhline{~|--}\noalign{\vspace*{\doublerulesep}}
+\hhline{-||--}
+\multicolumn{1}{|X||}{Carry-over} & \multirow{2}{*}{Equally strong} & \multirow{2}{*}{Assimilatory}\\
+\hhline{|-||~~}
+\multicolumn{1}{|X||}{Anticipatory} &  & \\
+\hhline{|-||-|-|}
+\end{tabularx}
+\caption{Distribution of tonal coarticulation in Taiwan Mandarin and Taiwan Southern Min}
+\label{table:MandarinMinDistribution}
+\end{table}
+\end{flushleft}
+
+\begin{flushleft}
+\begin{table}[hbt!]
+\begin{tabularx}{\textwidth}{l|X|X|}
+\cline{2-3}
+ & Carry-over & Anticipatory \\
+\hhline{~|--}\noalign{\vspace*{\doublerulesep}}
+\hhline{-||--}
+\multicolumn{1}{|X||}{Taiwan Mandarin} & \multirow{2}{*}{Equally strong} & \multirow{2}{*}{Equally strong}\\
+\hhline{|-||~~}
+\multicolumn{1}{|X||}{Taiwan Southern Min} &  & \\
+\hhline{|-||-|-|}
+\end{tabularx}
+\caption{Comparison of tonal coarticulation between Taiwan Mandarin and Taiwan Southern Min}
+\label{table:MandarinMinDistributionComparison}
+\end{table}
+\end{flushleft}
 
 \section{Normalization for tonal coarticulation in Taiwan Mandarin and Taiwan Southern Min}
 Fitted falling tone responses of the the monolingual and bilingual groups in Mandarin and Southern Min are shown in Figure \ref{Figure:E2Raw}.
@@ -549,7 +585,7 @@ Upon first sight, we see an obvious difference between the monolingual group's M
 
 %A one-way ANOVA revealed that there was significant difference between at least two of the Southern Min results, and the monolingual and bilingual groups' Mandarin results (F(2, 62)=5.53, p<.01**).
 
-As mentioned in section \ref{section:Experiment2}, this measurement serves as a means of quantification of the magnitudes of perceptual normalization for tonal coarticulation. A simple t-test showed that the the distances in Taiwan Southern Min are significantly shorter than the distances in Mandarin on the monolingual group (p<.001**)\footnote{Post-hoc power analyses have been done for this and following reported significant results, all results gained a power of 71\% or higher.}. This suggests that normalization for tonal coarticulation was of a smaller amplitude in Taiwan Southern Min than in Taiwan Mandarin. Interestingly, this difference between Mandarin and Southern Min was present not only between groups, but also within subjects, as shown in figure \ref{Figure:DistBilingualBoxPlot}. A paired t-test showed that even on the same speakers of the advanced bilingual group, this normalization was stronger in Mandarin than in Southern Min (p<.05*). This linguistic discrepancy, however, faded away on intermediate bilinguals (p=.37).
+As mentioned in section \ref{section:Experiment2}, this measurement serves as a means of quantification of the magnitudes of perceptual normalization for tonal coarticulation. A simple t-test showed that the the distances in Taiwan Southern Min are significantly shorter than the distances in Mandarin on the monolingual group (p<.001**)\footnote{Post-hoc power analyses have been done for this and following reported significant results, all results gained a power of 71\% or higher.}. This suggests that normalization for tonal coarticulation was of a smaller amplitude in Taiwan Southern Min than in Taiwan Mandarin. Interestingly, this difference between Mandarin and Southern Min was present not only between groups, but also within subjects, as shown in figure \ref{Figure:DistBilingualBoxPlot}. A paired t-test showed that even on the same speakers of the advanced bilingual group, this normalization was stronger in Mandarin than in Southern Min (p<.05*). This linguistic discrepancy, however, faded away on intermediate bilinguals (p=.32).
 
 \begin{figure}[hbt!]
 \centering
@@ -620,7 +656,7 @@ In general, we see that the falling tone had stricter boundaries than the low to
 %
 %To further investigate whether differences would be found when bilingual subjects were advanced speakers only, other two one-way ANOVA's were done again with the intermediate bilingual group's data taken out. This time, falling tone results were found to be significantly different between at least one of the language$\times$group combinations (F(2, 62)=5.31, p<.05*), and so were the low tone results (F(2, 62)=6.76, p<.01**).
 
-Simple t-tests were done to investigate the differences between the bilingual group's Southern Min results and the monolingual speakers' Mandarin results for the falling tones and low tones, respectively. No significant differences were found between the maximum slopes of bilinguals' Southern Min falling tone and those of their Mandarin counterparts' Mandarin falling tone (p=.28). However, for the low tones, the monolingual group's Mandarin slopes were significantly steeper than the bilingual group's Southern Min slopes (p<.001***).
+Simple t-tests were done to investigate the differences between the bilingual group's Southern Min results and the monolingual speakers' Mandarin results for the falling tones and low tones, respectively. No significant differences were found between the maximum slopes of bilinguals' Southern Min falling tone and those of their Mandarin counterparts' Mandarin falling tone (p=.33). However, for the low tones, the monolingual group's Mandarin slopes were significantly steeper than the bilingual group's Southern Min slopes (p<.001***).
 
 To further investigate whether differences would be found when bilingual subjects were advanced speakers only. Simple t-tests were also done with the intermediate bilingual group's data taken out. It was revealed that the slope distributions were opposite between monolingual speakers' Mandarin and advanced bilingual speakers' Southern Min. Maximum slopes of the falling tone regressions were larger in the advanced bilingual speakers' Southern Min (p<.05*), while when it turned to the low tone's acceptance, it was the monolingual speaker's Mandarin that had steeper slopes (p<.01**). Recall that in section \ref{section:Experiment3}, it is mentioned that the slopes are taken as indicators of the speakers' strictness on the tone boundaries. This suggests that when the monolingual speakers had stricter low tone boundaries in Mandarin, and that the advanced bilinguals had stricter falling tone boundaries in Southern Min. A paired t-test revealed such linguistic difference was kept even within the bilingual subjects (both p's <.05*).
 
@@ -656,9 +692,24 @@ Another issue that requires attention is the strong effect of tonal coarticulati
 \caption{Tonal spaces of Taiwan Mandarin (top) and Taiwan Southern Min (bottom).}
 \label{Figure:ToneSpace}
 \end{figure}
-It is imaginable that tone perception in Taiwan Southern Min would be challenging for listeners when tonal coarticulation is present. Recall that in chapter \ref{chapter:Introduction}, three possible scenarios of tone perception under tonal coarticulation are discussed (cf. figure \ref{Figure:ThreePossibleScenarios}). From the acoustic data in this study, scenario C, where the language has weak tonal coarticulation and can the tones be directly identified without great perturbation seems invalid, as tonal coarticulation is of the same, if not stronger, magnitude in Taiwan Southern Min as in Taiwan Mandarin. This leaves us with two possible scenarios. One is what we have seen in Mandarin (cf. \citealp{Zhangetal2022}), where strong normalization is attested. In both \cite{Xu1994} and \citeauthor{Zhangetal2022}, the perception of coarticulated tones was subject to normalization. Mandarin listeners, whether implicitly or explicitly, enlists the knowledge of pitch variation caused by adjacent tone's F0 values, and make according adjustment in order to retrieve the target that the interlocutor means to produce. While such account suffices to explain the perception of coarticulated tones. It cannot reconcile with the Taiwan Southern Min data we see in this study. In this study, Taiwan Southern Min, though having the same or even stronger tonal coarticulatory effects as Taiwan Mandarin, has significantly weaker normalization effects. Just as mentioned in chapter \ref{chapter:Introduction}, this result is understandable. If Taiwan Southern Min users are to rely only on normalization for tone identification under coarticulation, one would have much more possible candidates to normalize back to than in Taiwan Mandarin. (cf. the perceptual recoverability mentioned in \citealp{Flemming2011}). The weaker normalization effect suggests some other factors are at work for Taiwan Southern Min speakers to facilitate effective communication. It is possible that Taiwan Southern Min is a language that takes on the route B in figure \ref{Figure:ThreePossibleScenarios}, where the speakers have stricter tone boundaries for lexical tones. This scrutiny prevents coarticulated tones from being perceived as another lexical tone at the phonemic level. It is likely for Taiwan Southern Min listeners, a raised low tone that would be accepted as a high tone would be rejected, and still be perceived as a low tone. In this case, normalization is less likely, since perceptually, the low tone is never a high tone to begin with. Indeed, if we look at the results of Experiment 3, we see that Taiwan Southern Min subjects had lower tolerances for Taiwan Southern Min falling tone than their Taiwan Mandarin counterparts did for Taiwan Mandarin falling tone. The question is why reversed was found for the low tones. For the low tones, the Mandarin subjects had steeper regression lines. This is likely due to the fact that under sandhi rules, Taiwan Southern Min low tone becomes the falling tone. Though the stimuli was isolated disyllabic words, and the subjects were instructed to imagine the words were produced in isolation, several subjects reported feeling both the low tone versions and falling tone versions to be acceptable for them. This might explain why the boundaries for low tone were not significantly stricter for Taiwan Southern Min subjects as well. That is to say, judging from the results seen in Experiments 2 and 3, Taiwan Southern Min differs from Taiwan Mandarin in that, though both have rather strong tonal coarticulation, the former has stricter tone boundaries that prevents coarticulated tones from being perceived as other lexical tones, while the latter accepts them as good tokens of other lexical tones, and undergoes normalization afterwards.
+It is imaginable that tone perception in Taiwan Southern Min would be challenging for listeners when tonal coarticulation is present. Recall that in chapter \ref{chapter:Introduction}, three possible scenarios of tone perception under tonal coarticulation are discussed (cf. figure \ref{Figure:ThreePossibleScenarios}). From the acoustic data in this study, scenario C, where the language has weak tonal coarticulation and can the tones be directly identified without great perturbation seems invalid, as tonal coarticulation is of the same, if not stronger, magnitude in Taiwan Southern Min as in Taiwan Mandarin. This leaves us with two possible scenarios. One is what we have seen in Mandarin (cf. \citealp{Zhangetal2022}), where strong normalization is attested. In both \cite{Xu1994} and \citeauthor{Zhangetal2022}, the perception of coarticulated tones was subject to normalization. Mandarin listeners, whether implicitly or explicitly, enlists the knowledge of pitch variation caused by adjacent tone's F0 values, and make according adjustment in order to retrieve the target that the interlocutor means to produce. While such account suffices to explain the perception of coarticulated tones. It cannot reconcile with the Taiwan Southern Min data we see in this study. In this study, Taiwan Southern Min, though having the same or even stronger tonal coarticulatory effects as Taiwan Mandarin, has significantly weaker normalization effects. Just as mentioned in chapter \ref{chapter:Introduction}, this result is understandable. If Taiwan Southern Min users are to rely only on normalization for tone identification under coarticulation, one would have much more possible candidates to normalize back to than in Taiwan Mandarin. (cf. the perceptual recoverability mentioned in \citealp{Flemming2011}). The weaker normalization effect suggests some other factors are at work for Taiwan Southern Min speakers to facilitate effective communication. It is possible that Taiwan Southern Min is a language that takes on the route B in figure \ref{Figure:ThreePossibleScenarios}, where the speakers have stricter tone boundaries for lexical tones. This scrutiny prevents coarticulated tones from being perceived as another lexical tone at the phonemic level. It is likely for Taiwan Southern Min listeners, a raised low tone that would be taken as an acceptable token of high tone in Taiwan Mandarin would be rejected, and still be perceived as a low tone. This can be illustrated in figure \ref{Figure:ToneAcceptanceIllustration}. 
+\begin{figure}[hbt!]
+\centering
+\begin{subfigure}[b]{.495\textwidth}
+\centering
+\includegraphics[width=\textwidth]{Figures/Tone_acceptance_illustration_wide.png}
+\end{subfigure}
+\begin{subfigure}[b]{.495\textwidth}
+\centering
+\includegraphics[width=\textwidth]{Figures/Tone_acceptance_illustration_narrow.png}
+\end{subfigure}
 
-\section{Tonal coarticulation as cross-linguistic universal}
+\caption{Illustrations of wider (left) vs. narrower (right) tone acceptance ranges.}
+\label{Figure:ToneAcceptanceIllustration}
+\end{figure}
+In this case, normalization is less likely, since perceptually, the low tone is never a high tone to begin with. Indeed, if we look at the results of Experiment 3, we see that Taiwan Southern Min subjects had lower tolerances for Taiwan Southern Min falling tone than their Taiwan Mandarin counterparts did for Taiwan Mandarin falling tone. The question is why reversed was found for the low tones. For the low tones, the Mandarin subjects had steeper regression lines. This is likely due to the fact that under sandhi rules, Taiwan Southern Min low tone becomes the falling tone. Though the stimuli was isolated disyllabic words, and the subjects were instructed to imagine the words were produced in isolation, several subjects reported feeling both the low tone versions and falling tone versions to be acceptable for them. This might explain why the boundaries for low tone were not significantly stricter for Taiwan Southern Min subjects as well. That is to say, judging from the results seen in Experiments 2 and 3, Taiwan Southern Min differs from Taiwan Mandarin in that, though both have rather strong tonal coarticulation, the former has stricter tone boundaries that prevents coarticulated tones from being perceived as other lexical tones, while the latter accepts them as good tokens of other lexical tones, and undergoes normalization afterwards.
+
+\section{The nature of tonal coarticulation}
 After seeing tonal coarticulations in Taiwan Mandarin and Taiwan Southern Min, a question naturally arises: Is tonal coarticulation a universal trait that occurs naturally as a bio-mechanical result? As argued in chapter \ref{chapter:Introduction} and in the previous section, it is painstaking for a language with large tone inventory to allow for tonal coarticulation. Perception becomes challenging with the already complicated tonal space becoming even messier, and normalization would also be hard considering the multiple possibilities of the target tone. As shown, Taiwan Southern Min listeners had to have stricter tone boundaries to attain successful comprehension. Things would be easier, if tonal coarticulation were absent or weaker. This is, nevertheless, not what we see in Taiwan Southern Min. We see, instead, rather similar coarticulatory effects for both languages. This suggests that such effects might be involuntary, and conditioned by universal constraints. Several studies have entertained this line of thinking. \cite{Haoetal2018}, for instance, attempted to account for tonal coarticulation in Mandarin with articulatory effects. Varying results of coarticulated tones in continuous speech were modeled as factored by competition of attempt to decrease articulatory effects and the prosodic functional need due to requirements such as accentuation. In this case, the variation we see on coarticulated tones are merely byproducts of different prosodic needs. The authors also found that duration could help distinguishing tones with coarticulation and without. This hints that tonal coarticulation is likely influenced by biological mechanism. \cite{Flemming2011} also proposes that certain cross-linguistic universals exist, and it is language-specific variations that interact with such constraints, resulting in the discrepancies we see in languages. While the nature of tonal coarticulation is not the direct tenet of this study. We should at least consider the possibility that tonal coarticulation might be to a certain extent universal across languages.
 
 \section{General perceptual compensation vs. speech-specific normalization}
@@ -773,6 +824,8 @@ P34&Female&21&Taipei&6\\
 P38&Female&21&Kaohsiung&6\\
 \hline
 P41&Male&25&Changhua&4\\
+\hline
+P43&Female&24&New Taipei&7\\
 \hline
 
 \end{tabularx}
