@@ -1,0 +1,1217 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Bates%
+, M{\"a}chler%
+, Bolker%
+\BCBL {}\ \BBA {} Walker%
+}{%
+Bates%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+Batesetal2015}
+\APACinsertmetastar {%
+Batesetal2015}%
+\begin{APACrefauthors}%
+Bates, D.%
+, M{\"a}chler, M.%
+, Bolker, B.%
+\BCBL {}\ \BBA {} Walker, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Fitting Linear Mixed-Effects Models Using {lme4}}
+  {Fitting linear mixed-effects models using {lme4}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Statistical Software}{67}{1}{1--48}.
+\newblock
+\begin{APACrefDOI} \doi{10.18637/jss.v067.i01} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Boersma%
+\ \BBA {} Weenink%
+}{%
+Boersma%
+\ \BBA {} Weenink%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+BoersmaWeenink2018}
+\APACinsertmetastar {%
+BoersmaWeenink2018}%
+\begin{APACrefauthors}%
+Boersma, P.%
+\BCBT {}\ \BBA {} Weenink, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+\APACrefbtitle {{Praat: doing phonetics by computer. Version 6.2.14}} {{Praat:
+  doing phonetics by computer. Version 6.2.14}}\ [Computer Software].
+\newblock
+\begin{APACrefURL} \url{http://www.praat.org/} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Buschmeier%
+\ \BBA {} W\l{}odarczak%
+}{%
+Buschmeier%
+\ \BBA {} W\l{}odarczak%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+BuschmeierWlodarczak2013}
+\APACinsertmetastar {%
+BuschmeierWlodarczak2013}%
+\begin{APACrefauthors}%
+Buschmeier, H.%
+\BCBT {}\ \BBA {} W\l{}odarczak, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {TextGridTools: {A} {T}ext{G}rid processing and analysis
+  toolkit for {P}ython} {Textgridtools: {A} {T}ext{G}rid processing and
+  analysis toolkit for {P}ython}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings der 24. {K}onferenz zur {E}lektronischen
+  {S}prachsignalverarbeitung} {Proceedings der 24. {K}onferenz zur
+  {E}lektronischen {S}prachsignalverarbeitung}\ (\BPGS\ 152--157).
+\newblock
+\APACaddressPublisher{Bielefeld, Germany}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Chang%
+\ \BBA {} Hsieh%
+}{%
+Chang%
+\ \BBA {} Hsieh%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+ChangHsieh2012}
+\APACinsertmetastar {%
+ChangHsieh2012}%
+\begin{APACrefauthors}%
+Chang, Y\BHBI C.%
+\BCBT {}\ \BBA {} Hsieh, F\BHBI F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Tonal coarticulation in {M}alaysian {H}okkien: {A}
+  typological anomaly?} {Tonal coarticulation in {M}alaysian {H}okkien: {A}
+  typological anomaly?}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The Linguistic Review}{29}{}{37--73}.
+\newblock
+\begin{APACrefDOI} \doi{10.1515/tlr-2012-0003} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Chao%
+}{%
+Chao%
+}{%
+{\protect \APACyear {1968}}%
+}]{%
+Chao1968}
+\APACinsertmetastar {%
+Chao1968}%
+\begin{APACrefauthors}%
+Chao, Y\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1968}.
+\newblock
+\APACrefbtitle {A {G}rammar of {S}poken {C}hinese} {A {G}rammar of {S}poken
+  {C}hinese}.
+\newblock
+\APACaddressPublisher{Berkeley}{University of California Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Chuang%
+\ \BBA {} Fon%
+}{%
+Chuang%
+\ \BBA {} Fon%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+ChuangFon2010}
+\APACinsertmetastar {%
+ChuangFon2010}%
+\begin{APACrefauthors}%
+Chuang, Y\BHBI Y.%
+\BCBT {}\ \BBA {} Fon, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The Effect of Prosodic Prominence on the Realizations of
+  Voiceless Dental and Retroflex Sibilants in {Taiwan Mandarin} Spontaneous
+  Speech} {The effect of prosodic prominence on the realizations of voiceless
+  dental and retroflex sibilants in {Taiwan Mandarin} spontaneous
+  speech}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of {S}peech {P}rosody 2010-{F}ifth
+  {I}nternational {C}onference.} {Proceedings of {S}peech {P}rosody
+  2010-{F}ifth {I}nternational {C}onference.}
+\newblock
+\APACaddressPublisher{Chicago, Illinois}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Flanagan%
+}{%
+Flanagan%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+Flanagan2006}
+\APACinsertmetastar {%
+Flanagan2006}%
+\begin{APACrefauthors}%
+Flanagan, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2006}.
+\newblock
+\APACrefbtitle {JavaScript: the definitive guide} {Javascript: the definitive
+  guide}.
+\newblock
+\APACaddressPublisher{}{O'Reilly Media, Inc.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Flemming%
+}{%
+Flemming%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+Flemming2011}
+\APACinsertmetastar {%
+Flemming2011}%
+\begin{APACrefauthors}%
+Flemming, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The grammar of coarticulation} {The grammar of
+  coarticulation}.{\BBCQ}
+\newblock
+\BIn{} M.~Embarki\ \BBA {} C.~Dodane\ (\BEDS), \APACrefbtitle {La
+  coarticulation: Des indices à la représentation.} {La coarticulation: Des
+  indices à la représentation.}
+\newblock
+\APACaddressPublisher{Paris}{L'Harmattan}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Fon%
+\ \BBA {} Chiang%
+}{%
+Fon%
+\ \BBA {} Chiang%
+}{%
+{\protect \APACyear {1999}}%
+}]{%
+FonChiang1999}
+\APACinsertmetastar {%
+FonChiang1999}%
+\begin{APACrefauthors}%
+Fon, J.%
+\BCBT {}\ \BBA {} Chiang, W\BHBI Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1999}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {What Does {C}hao have to say about tones?—{A} Case
+  study of {T}aiwan {M}andarin} {What does {C}hao have to say about
+  tones?—{A} case study of {T}aiwan {M}andarin}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Chinese Linguistics}{27}{1}{13--37}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Francis%
+, Ciocca%
+\BCBL {}\ \BBA {} Ng%
+}{%
+Francis%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2003}}%
+}]{%
+Francisetal2003}
+\APACinsertmetastar {%
+Francisetal2003}%
+\begin{APACrefauthors}%
+Francis, A.%
+, Ciocca, V.%
+\BCBL {}\ \BBA {} Ng, B\BPBI C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {On the (non)categorical perception of lexical tones} {On
+  the (non)categorical perception of lexical tones}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Perception \& Psychophysics}{65}{}{1029--1044}.
+\newblock
+\begin{APACrefDOI} \doi{10.3758/BF03194832} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hao%
+, Wei%
+, Yanlu%
+\BCBL {}\ \BBA {} Jinsong%
+}{%
+Hao%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+Haoetal2018}
+\APACinsertmetastar {%
+Haoetal2018}%
+\begin{APACrefauthors}%
+Hao, L.%
+, Wei, Z.%
+, Yanlu, X.%
+\BCBL {}\ \BBA {} Jinsong, Z.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A preliminary study on tonal coarticulation in
+  continuousspeech} {A preliminary study on tonal coarticulation in
+  continuousspeech}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of Interspeech} {Proceedings of
+  interspeech}\ (\BPGS\ 3017--3021).
+\newblock
+\APACaddressPublisher{Hyderabad, India}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Her%
+}{%
+Her%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+Her2012}
+\APACinsertmetastar {%
+Her2012}%
+\begin{APACrefauthors}%
+Her, O\BHBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Language and Group Identity: On Taiwan Mainlanders'
+  Mother Tongues and Taiwan Mandarin} {Language and group identity: On taiwan
+  mainlanders' mother tongues and taiwan mandarin}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Language and Linguistics}{10}{}{375--419}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Huang%
+\ \BBA {} Holt%
+}{%
+Huang%
+\ \BBA {} Holt%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+HuangHolt2009}
+\APACinsertmetastar {%
+HuangHolt2009}%
+\begin{APACrefauthors}%
+Huang, J.%
+\BCBT {}\ \BBA {} Holt, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {General Perceptual Contributions to Lexical Tone
+  Normalization} {General perceptual contributions to lexical tone
+  normalization}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The Journal of the Acoustical Society of
+  America}{125}{6}{3983--3994}.
+\newblock
+\begin{APACrefDOI} \doi{10.1121/1.3125342} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hyman%
+}{%
+Hyman%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+Hyman2007}
+\APACinsertmetastar {%
+Hyman2007}%
+\begin{APACrefauthors}%
+Hyman, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Universal of tone rules: 30 years later} {Universal of
+  tone rules: 30 years later}.{\BBCQ}
+\newblock
+\BIn{} C.~Gussenhoven\ \BBA {} T.~Riad\ (\BEDS), \APACrefbtitle {Tones and
+  Tunes} {Tones and tunes}\ (\BVOL~2, \BPGS\ 1--34).
+\newblock
+\APACaddressPublisher{Berlin}{Mouton de Gruyter}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Jadoul%
+, Thompson%
+\BCBL {}\ \BBA {} de Boer%
+}{%
+Jadoul%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+Jadouletal2018}
+\APACinsertmetastar {%
+Jadouletal2018}%
+\begin{APACrefauthors}%
+Jadoul, Y.%
+, Thompson, B.%
+\BCBL {}\ \BBA {} de Boer, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Introducing {P}arselmouth: {A} {P}ython interface to
+  {P}raat} {Introducing {P}arselmouth: {A} {P}ython interface to
+  {P}raat}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Phonetics}{71}{}{1--15}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.wocn.2018.07.001} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Johnson%
+\ \BBA {} Sjerps%
+}{%
+Johnson%
+\ \BBA {} Sjerps%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+JohnsonSjerps2018}
+\APACinsertmetastar {%
+JohnsonSjerps2018}%
+\begin{APACrefauthors}%
+Johnson, K.%
+\BCBT {}\ \BBA {} Sjerps, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Speaker Normalization in Speech Perception} {Speaker
+  normalization in speech perception}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{UC Berkeley PhonLab Annual Report}{14}{}{}.
+\newblock
+\begin{APACrefURL} \url{https://escholarship.org/uc/item/2fc6x1ph}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.5070/P7141042474} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ladefoged%
+\ \BBA {} Broadbent%
+}{%
+Ladefoged%
+\ \BBA {} Broadbent%
+}{%
+{\protect \APACyear {1957}}%
+}]{%
+LadefogedBroadbent1957}
+\APACinsertmetastar {%
+LadefogedBroadbent1957}%
+\begin{APACrefauthors}%
+Ladefoged, P.%
+\BCBT {}\ \BBA {} Broadbent, D\BPBI E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1957}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Information conveyed by vowels} {Information conveyed by
+  vowels}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The Journal of the Acoustical Society of
+  America}{29}{}{98--104}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+J\BHBI C.~Li%
+}{%
+J\BHBI C.~Li%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+Li2008}
+\APACinsertmetastar {%
+Li2008}%
+\begin{APACrefauthors}%
+Li, J\BHBI C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2008}.
+\unskip\
+\newblock
+\APACrefbtitle {語言接觸引發的演變–以台灣華語「給」為例
+  {[}{C}ontact-Induced Grammatical Change: {T}he Case of Gei3 in {T}aiwanese
+  {M}andarin{]}} {語言接觸引發的演變–以台灣華語「給」為例
+  {[}{C}ontact-induced grammatical change: {T}he case of gei3 in {T}aiwanese
+  {M}andarin{]}}\ \APACtypeAddressSchool {dissertation}{}{}.
+\unskip\
+\newblock
+\APACaddressSchool {Hsinchu}{National Tsing Hua University}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+S\BHBI H.~Li%
+}{%
+S\BHBI H.~Li%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+Li2010}
+\APACinsertmetastar {%
+Li2010}%
+\begin{APACrefauthors}%
+Li, S\BHBI H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle
+  {台、華語接觸所引起的台語語音的變化趨勢 {[}{S}ound Change
+  in {T}aiwanese: {A} Tendency Caused by Its Contact with {M}andarin{]}}
+  {台、華語接觸所引起的台語語音的變化趨勢 {[}{S}ound change
+  in {T}aiwanese: {A} tendency caused by its contact with
+  {M}andarin{]}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{台語研究 {[}Journal of Taiwanese
+  Vernacular{]}}{2}{1}{56--71}.
+\newblock
+\begin{APACrefDOI} \doi{10.6621/JTV.2010.0201.03} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+H\BHBI B.~Lin%
+}{%
+H\BHBI B.~Lin%
+}{%
+{\protect \APACyear {1988}}%
+}]{%
+Lin1988}
+\APACinsertmetastar {%
+Lin1988}%
+\begin{APACrefauthors}%
+Lin, H\BHBI B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1988}.
+\unskip\
+\newblock
+\APACrefbtitle {Contextual stability of {T}aiwanese tones} {Contextual
+  stability of {T}aiwanese tones}\ \APACtypeAddressSchool {dissertation}{}{}.
+\unskip\
+\newblock
+\APACaddressSchool {Storrs}{University of Conneticut}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+M.~Lin%
+\ \BBA {} Yan%
+}{%
+M.~Lin%
+\ \BBA {} Yan%
+}{%
+{\protect \APACyear {1991}}%
+}]{%
+LinYan1991}
+\APACinsertmetastar {%
+LinYan1991}%
+\begin{APACrefauthors}%
+Lin, M.%
+\BCBT {}\ \BBA {} Yan, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1991}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Tonal coarticulation patterns in quadrisyllabic words
+  and phrases with normal stress of {M}andarin} {Tonal coarticulation patterns
+  in quadrisyllabic words and phrases with normal stress of {M}andarin}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {{Proceedings of the XIIth International Congress of
+  Phonetic Sciences}} {{Proceedings of the XIIth International Congress of
+  Phonetic Sciences}}\ (\BVOL~3, \BPGS\ 242--245).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Markova%
+\ \protect \BOthers {.}}{%
+Markova%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+Markovaetal2016}
+\APACinsertmetastar {%
+Markovaetal2016}%
+\begin{APACrefauthors}%
+Markova, D.%
+, Richer, L.%
+, Pangelinan, M.%
+, Schwartz, D.%
+, Leonard, G.%
+, Perron, M.%
+\BDBL {}Paus, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Age- and sex-related variations in vocal-tract
+  morphology and voice acoustics during adolescence} {Age- and sex-related
+  variations in vocal-tract morphology and voice acoustics during
+  adolescence}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Hormones and Behavior}{81}{}{84--96}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.yhbeh.2016.03.001} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Peirce%
+\ \protect \BOthers {.}}{%
+Peirce%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2019}}%
+}]{%
+Peirce2019}
+\APACinsertmetastar {%
+Peirce2019}%
+\begin{APACrefauthors}%
+Peirce, J.%
+, Gray, J\BPBI R.%
+, Simpson, S.%
+, MacAskill, M.%
+, H\"{o}chenberger, R.%
+, Sogo, H.%
+\BDBL {}Lindel{\o}v, J\BPBI K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{PsychoPy}2: {E}xperiments in behavior made easy}
+  {{PsychoPy}2: {E}xperiments in behavior made easy}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Behavior Research Methods}{51}{1}{195--203}.
+\newblock
+\begin{APACrefDOI} \doi{10.3758/s13428-018-01193-y} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Peng%
+}{%
+Peng%
+}{%
+{\protect \APACyear {1997}}%
+}]{%
+Peng1997}
+\APACinsertmetastar {%
+Peng1997}%
+\begin{APACrefauthors}%
+Peng, S\BHBI h.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1997}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Production and perception of {T}aiwanese tones in
+  different tonal and prosodic contexts} {Production and perception of
+  {T}aiwanese tones in different tonal and prosodic contexts}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Phonetics}{25}{3}{371--400}.
+\newblock
+\begin{APACrefDOI} \doi{10.1006/jpho.1997.0047} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{R Core Team}%
+}{%
+{R Core Team}%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+RCoreTeam2019}
+\APACinsertmetastar {%
+RCoreTeam2019}%
+\begin{APACrefauthors}%
+{R Core Team}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+\APACrefbtitle {{R}: {A} Language and Environment for Statistical Computing.
+  {V}ersion 3.6.1} {{R}: {A} language and environment for statistical
+  computing. {V}ersion 3.6.1}\ [Computer Software].
+\newblock
+\APAChowpublished {Vienna, Austria}.
+\newblock
+\begin{APACrefURL} \url{https://www.R-project.org/ (EPEL Repo)}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Schafer%
+, Carlson%
+, Harles~Clifton%
+\BCBL {}\ \BBA {} Frazier%
+}{%
+Schafer%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2000}}%
+}]{%
+Schaferetal2000}
+\APACinsertmetastar {%
+Schaferetal2000}%
+\begin{APACrefauthors}%
+Schafer, A.%
+, Carlson, K.%
+, Harles~Clifton, j.%
+\BCBL {}\ \BBA {} Frazier, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2000}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Focus and the Interpretation of Pitch Accent:
+  {D}isambiguating Embedded Questions} {Focus and the interpretation of pitch
+  accent: {D}isambiguating embedded questions}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Language and Speech}{43}{1}{75--105}.
+\newblock
+\begin{APACrefDOI} \doi{10.1177/00238309000430010301} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Shen%
+}{%
+Shen%
+}{%
+{\protect \APACyear {1990}}%
+}]{%
+Shen1990}
+\APACinsertmetastar {%
+Shen1990}%
+\begin{APACrefauthors}%
+Shen, X\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1990}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Tonal coarticulation in Mandarin} {Tonal coarticulation
+  in mandarin}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Phonetics}{18}{2}{281--295}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/S0095-4470(19)30394-8} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Shih%
+\ \BBA {} Sproat%
+}{%
+Shih%
+\ \BBA {} Sproat%
+}{%
+{\protect \APACyear {1992}}%
+}]{%
+ShihSproat1992}
+\APACinsertmetastar {%
+ShihSproat1992}%
+\begin{APACrefauthors}%
+Shih, C\BHBI C.%
+\BCBT {}\ \BBA {} Sproat, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1992}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Variations of the {M}andarin rising tone} {Variations of
+  the {M}andarin rising tone}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {{Proceedings of the IRCS workshop on prosody in natural
+  speech}} {{Proceedings of the IRCS workshop on prosody in natural speech}}\
+  (\BPGS\ 193--200).
+\newblock
+\APACaddressPublisher{Philadelphia}{The Institute for Research in Cognitive
+  Science, University of Pennsylvania}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Su%
+}{%
+Su%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+Su2018}
+\APACinsertmetastar {%
+Su2018}%
+\begin{APACrefauthors}%
+Su, H\BHBI y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {台灣華語的在地化及標記化 {[}{T}he
+  Indigenization and Enregisterment of {T}aiwan {M}andarin{]}}
+  {台灣華語的在地化及標記化 {[}{T}he indigenization and
+  enregisterment of {T}aiwan {M}andarin{]}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{台灣學誌 {[}Monumenta Taiwanica{]}}{}{17}{1--35}.
+\newblock
+\begin{APACrefDOI} \doi{10.6242/twnica.201804_(17).0001} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Tomar%
+}{%
+Tomar%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+Tomar2006}
+\APACinsertmetastar {%
+Tomar2006}%
+\begin{APACrefauthors}%
+Tomar, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Converting video formats with {FF}mpeg} {Converting
+  video formats with {FF}mpeg}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Linux Journal}{146}{1}{10}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+van Rossum%
+\ \BBA {} Drake%
+}{%
+van Rossum%
+\ \BBA {} Drake%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+vanRossumDrake2009}
+\APACinsertmetastar {%
+vanRossumDrake2009}%
+\begin{APACrefauthors}%
+van Rossum, G.%
+\BCBT {}\ \BBA {} Drake, F\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+\APACrefbtitle {{Python 3 Reference Manual. Version 3.9}} {{Python 3 Reference
+  Manual. Version 3.9}}\ [Computer Software].
+\newblock
+\APAChowpublished {Scotts Valley, CA}.
+\newblock
+\APACaddressPublisher{}{CreateSpace}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+H.~Wang%
+}{%
+H.~Wang%
+}{%
+{\protect \APACyear {2002}}%
+}]{%
+Wang2002}
+\APACinsertmetastar {%
+Wang2002}%
+\begin{APACrefauthors}%
+Wang, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The Prosodic Effects on {T}aiwan {M}in Tones} {The
+  prosodic effects on {T}aiwan {M}in tones}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Language and Linguistics}{3}{}{839--852}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+W.~Wang%
+\ \BBA {} Fillmore%
+}{%
+W.~Wang%
+\ \BBA {} Fillmore%
+}{%
+{\protect \APACyear {1961}}%
+}]{%
+WangFillmore1961}
+\APACinsertmetastar {%
+WangFillmore1961}%
+\begin{APACrefauthors}%
+Wang, W.%
+\BCBT {}\ \BBA {} Fillmore, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1961}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Intrinsic Cues and Consonant Perception} {Intrinsic cues
+  and consonant perception}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of speech and hearing research}{4}{}{130--136}.
+\newblock
+\begin{APACrefDOI} \doi{10.1044/jshr.0402.130} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Watkins%
+\ \BBA {} Makin%
+}{%
+Watkins%
+\ \BBA {} Makin%
+}{%
+{\protect \APACyear {1994}}%
+}]{%
+WatkinsMakin1994}
+\APACinsertmetastar {%
+WatkinsMakin1994}%
+\begin{APACrefauthors}%
+Watkins, A\BPBI J.%
+\BCBT {}\ \BBA {} Makin, S\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1994}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Perceptual compensation for speaker differences and for
+  spectral-envelope distortion} {Perceptual compensation for speaker
+  differences and for spectral-envelope distortion}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of the Acoustical Society of
+  America}{96}{3}{1263--1282}.
+\newblock
+\begin{APACrefDOI} \doi{10.1121/1.410275} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Watkins%
+\ \BBA {} Makin%
+}{%
+Watkins%
+\ \BBA {} Makin%
+}{%
+{\protect \APACyear {1996}}%
+}]{%
+WatkinsMakin1996}
+\APACinsertmetastar {%
+WatkinsMakin1996}%
+\begin{APACrefauthors}%
+Watkins, A\BPBI J.%
+\BCBT {}\ \BBA {} Makin, S\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1996}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Effects of spectral contrast on perceptual compensation
+  for spectral-envelope distortion} {Effects of spectral contrast on perceptual
+  compensation for spectral-envelope distortion}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of the Acoustical Society of
+  America}{99}{6}{3749--3757}.
+\newblock
+\begin{APACrefDOI} \doi{10.1121/1.414981} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wieling%
+}{%
+Wieling%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+Wieling2018}
+\APACinsertmetastar {%
+Wieling2018}%
+\begin{APACrefauthors}%
+Wieling, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Analyzing dynamic phonetic data using generalized
+  additive mixed modeling: {A} tutorial focusing on articulatory differences
+  between {L}1 and {L}2 speakers of {E}nglish} {Analyzing dynamic phonetic data
+  using generalized additive mixed modeling: {A} tutorial focusing on
+  articulatory differences between {L}1 and {L}2 speakers of {E}nglish}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Phonetics}{70}{}{89--116}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.wocn.2018.03.002} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wong%
+\ \BBA {} Diehl%
+}{%
+Wong%
+\ \BBA {} Diehl%
+}{%
+{\protect \APACyear {2003}}%
+}]{%
+WongDiehl2003}
+\APACinsertmetastar {%
+WongDiehl2003}%
+\begin{APACrefauthors}%
+Wong, P.%
+\BCBT {}\ \BBA {} Diehl, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Perceptual Normalization for Inter- and Intratalker
+  Variation in Cantonese Level Tones} {Perceptual normalization for inter- and
+  intratalker variation in cantonese level tones}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Speech, Language, and Hearing Research :
+  JSLHR}{46}{}{413-421}.
+\newblock
+\begin{APACrefDOI} \doi{10.1044/1092-4388(2003/034)} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Xu%
+}{%
+Xu%
+}{%
+{\protect \APACyear {1994}}%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+Xu1994a}
+\APACinsertmetastar {%
+Xu1994a}%
+\begin{APACrefauthors}%
+Xu, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1994{\protect \BCnt {1}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Asymmetry in Contextual Tonal Variation in Mandarin}
+  {Asymmetry in contextual tonal variation in mandarin}.{\BBCQ}
+\newblock
+\BIn{} H\BHBI W.~Chang, J\BHBI T.~Huang, C\BHBI W.~Hue\BCBL {}\ \BBA {}
+  O.~Tzeng\ (\BEDS), \APACrefbtitle {Advances in the {S}tudy of {C}hinese
+  {L}anguage {P}rocessing} {Advances in the {S}tudy of {C}hinese {L}anguage
+  {P}rocessing}\ (\BPGS\ 383--396).
+\newblock
+\APACaddressPublisher{Taipei}{Department of Psychology, National Taiwan
+  University}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Xu%
+}{%
+Xu%
+}{%
+{\protect \APACyear {1994}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+Xu1994}
+\APACinsertmetastar {%
+Xu1994}%
+\begin{APACrefauthors}%
+Xu, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1994{\protect \BCnt {2}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Production and perception of coarticulated tones}
+  {Production and perception of coarticulated tones}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of the Acoustical Society of
+  America}{95}{4}{2240--2253}.
+\newblock
+\begin{APACrefDOI} \doi{10.1121/1.408684} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Xu%
+}{%
+Xu%
+}{%
+{\protect \APACyear {1997}}%
+}]{%
+Xu1997}
+\APACinsertmetastar {%
+Xu1997}%
+\begin{APACrefauthors}%
+Xu, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1997}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Contextual tonal variations in {M}andarin} {Contextual
+  tonal variations in {M}andarin}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Phonetics}{25}{1}{61--83}.
+\newblock
+\begin{APACrefDOI} \doi{10.1006/jpho.1996.0034} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Xu%
+\ \BBA {} Wang%
+}{%
+Xu%
+\ \BBA {} Wang%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+XuWang2009}
+\APACinsertmetastar {%
+XuWang2009}%
+\begin{APACrefauthors}%
+Xu, Y.%
+\BCBT {}\ \BBA {} Wang, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Organizing syllables into groups—{E}vidence from {F}0
+  and duration patterns in {M}andarin} {Organizing syllables into
+  groups—{E}vidence from {F}0 and duration patterns in {M}andarin}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Phonetics}{37}{4}{502--520}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/J.WOCN.2009.08.003} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Yang%
+}{%
+Yang%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+Yang2021}
+\APACinsertmetastar {%
+Yang2021}%
+\begin{APACrefauthors}%
+Yang, Y\BHBI C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle
+  {台灣人出現華語與台語語碼轉換的現狀與發生契機之研究
+  ―以電視節目為分析語料 {[}{R}esearch on the status quo and driving
+  effects of {T}aiwanese-{M}andarin code-switching on {T}aiwanese people:
+  {C}orpus from television programs{]}}
+  {台灣人出現華語與台語語碼轉換的現狀與發生契機之研究
+  ―以電視節目為分析語料 {[}{R}esearch on the status quo and driving
+  effects of {T}aiwanese-{M}andarin code-switching on {T}aiwanese people:
+  {C}orpus from television programs{]}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{拓殖大學台灣研究 {[}Journal of Taiwan studies,
+  Takushoku University{]}}{5}{}{91--118}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zhang%
+, Ding%
+\BCBL {}\ \BBA {} Lee%
+}{%
+Zhang%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2022}}%
+}]{%
+Zhangetal2022}
+\APACinsertmetastar {%
+Zhangetal2022}%
+\begin{APACrefauthors}%
+Zhang, H.%
+, Ding, H.%
+\BCBL {}\ \BBA {} Lee, W\BHBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The influence of preceding speech and nonspeech contexts
+  on {M}andarin tone identification} {The influence of preceding speech and
+  nonspeech contexts on {M}andarin tone identification}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Phonetics}{93}{}{101154}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.wocn.2022.101154} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
