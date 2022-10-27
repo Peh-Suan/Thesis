@@ -561,7 +561,8 @@
   colorlinks,
   linkcolor=hypercolor,
   anchorcolor=hypercolor,
-  citecolor=hypercolor
+  citecolor=hypercolor,
+  urlcolor=hypercolor
 }
 
 % [目錄格式]
