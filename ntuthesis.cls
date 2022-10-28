@@ -580,7 +580,7 @@
 {}
 {\hfill\contentspage}
 
-\setlength{\cftbeforesecskip}{8pt}                          % 修改目錄間距
+\setlength{\cftbeforesecskip}{8pt}                        % 修改目錄間距
 \setlength{\cftbeforesubsecskip}{8pt}
 
 \setcounter{tocdepth}{3}                                    % 設定目錄深度
@@ -609,11 +609,6 @@
 {\ntu@titlechapter}              		    % 定義 label
 {1em}                                       % 定義 sep
 {}                                          % before
-\titlespacing*{\section}
-{0pt}{2.5ex plus 1ex minus .2ex}{2.5ex plus .2ex}
-\titlespacing*{\subsection}
-{0pt}{1.5ex plus 1ex minus .2ex}{1.5ex plus .2ex}
-
 % [圖表標題]
 %
 \setlength{\intextsep}{12bp \@plus4pt \@minus2pt}
