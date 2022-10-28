@@ -609,13 +609,17 @@
 {\ntu@titlechapter}              		    % 定義 label
 {1em}                                       % 定義 sep
 {}                                          % before
+\titlespacing*{\section}
+{0pt}{2.5ex plus 1ex minus .2ex}{2.5ex plus .2ex}
+\titlespacing*{\subsection}
+{0pt}{1.5ex plus 1ex minus .2ex}{1.5ex plus .2ex}
 
 % [圖表標題]
 %
 \setlength{\intextsep}{12bp \@plus4pt \@minus2pt}
 \captionsetup{}
-\captionsetup[table]{position=top,belowskip={12bp-\intextsep},aboveskip=6bp}
-\captionsetup[figure]{position=bottom,belowskip={12bp-\intextsep},aboveskip=6bp}
+\captionsetup[table]{position=bottom,belowskip={12bp-\intextsep},aboveskip=6bp}
+\captionsetup[figure]{position=bottom,belowskip={6bp-\intextsep},aboveskip=6bp}
 \captionsetup[sub]{skip=6bp}
 
 % --------------------------------------------------
@@ -857,7 +861,7 @@
   \setlength{\leftmargin}{\labelwidth+\labelsep}  % 標籤左邊界
   \setlength{\rightmargin}{0cm}                   % 標籤右邊界
   \setlength{\parsep}{0cm}                        % 段落間距
-  \setlength{\itemsep}{18pt}                      % 標籤間距
+  \setlength{\itemsep}{0pt}                      % 標籤間距
   \setlength{\listparindent}{0cm}                 % 段落縮進
   \setlength{\topsep}{0pt}                        % 標籤與上文距離
 }}{\end{list}}
