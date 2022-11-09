@@ -108,14 +108,7 @@ The experiment was created with PsychoPy \citep{Peirce2019} and Javascript \cite
 \end{figure}
 
 \subsection{Analyses}
-The responses of the subjects were calculated as percentages of falling tone responses (cf. Figure \ref{Figure:E2RawExample}), and then fitted through logistic regression models. A 25\% and a 75\% thresholds were set. Mean differences between the smallest and the largest crossing points on the two thresholds were taken as indicators of the magnitudes of perceptual compensation for tonal coarticulation. An illustration of such calculation is provided in Figure \ref{Figure:E2ProcessedExample}.
-
-\begin{figure}[h]
-\centering
-\includegraphics[width=\textwidth]{figures/E2/RawExample.png}
-\caption{Example of percentages of falling tone responses (data of P1).}
-\label{Figure:E2RawExample}
-\end{figure}
+The responses of the subjects were calculated as percentages of falling tone responses (cf. Figure \ref{Figure:E2RawExample}), and then fitted through GAMMs. The looseness of the fitted splines was taken as indicator of the magnitudes of perceptual compensation for tonal coarticulation.
 
 \begin{figure}[h]
 \centering
@@ -153,7 +146,7 @@ This experiment was conducted after Experiment 2, after a minimal 1 minute break
 \end{figure}
 
 \subsection{Analyses}
-The subjects' responses were calculated as percentages and taken as acceptance rates of each of the 10 levels. These were then fitted through logistic regression models. The maximum slopes of each regression lines were taken as indicators of how strict/tolerant the subjects' tonal acceptances were. A steep slope would indicate that the subject was very strict on how the pitch values/contours of a given tone should be, and a flatter slope would suggest the subject had a wider acceptance range for the pitch of a given tone. An illustration is provided in Figure \ref{Figure:E3ProcessedExample}.
+The subjects' responses were calculated as percentages and taken as acceptance rates of each of the 10 levels. The first derivatives of the acceptance rates were then fitted through GAMMs. These were taken as indicator of the rate of acceptance climb. Higher ``velocity'' of acceptance climb would indicate a stricter tone boundary, and vice versa.
 
 \begin{figure}[h]
 \centering
