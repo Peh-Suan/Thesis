@@ -108,11 +108,11 @@ The experiment was created with PsychoPy \citep{Peirce2019} and Javascript \cite
 \end{figure}
 
 \subsection{Analyses}
-The responses of the subjects were calculated as percentages of falling tone responses, and then fitted through GAMMs using the \textit{lme4} package. The model is shown below. \textit{level} was taken as the predictor, and the falling tone percentage as the dependent variable, with \textit{partcipant} taken as random effect. Statistical sugnificance was calculated using the \textit{itsadug} package.
+The responses of the subjects were calculated as percentages of falling tone responses, and then fitted through GAMMs using the \textit{lme4} package. The model is shown below. \textit{level} was taken as the predictor, and the falling tone percentage as the dependent variable, with \textit{partcipant} taken as random effect. Statistical sugnificance was calculated using the \textit{itsadug} package \citep{vanRijetal2020}.
 \begin{lstlisting}
 model <- bam(formula=as.formula(falling_tone_percentage ~ level + 
-                                  s(level, by=tone) + 
-                                  s(participant, bs='re', by=tone
+                                  s(level, by=preceding_tone) + 
+                                  s(participant, bs='re', by=preceding_tone
                                     )
                                 )
 \end{lstlisting}
@@ -150,8 +150,8 @@ This experiment was conducted after Experiment 2, after a minimal 1 minute break
 The subjects' responses were calculated as percentages and taken as acceptance rates of each of the 10 levels. The first derivatives of the acceptance rates were then fitted through GAMMs using the \textit{lme4} package, with the model shown below. \textit{level} was taken as the predictor, and the first derivatives of the acceptance rates as the dependent variable, with \textit{partcipant} taken as random effect. Statistical sugnificance was calculated using the \textit{itsadug} package.
 \begin{lstlisting}
 model <- bam(formula=as.formula(acceptance_rate_fd ~ level + 
-                                  s(level, by=preceding_tone) + 
-                                  s(participant, bs='re', by=preceding_tone
+                                  s(level, by=tone) + 
+                                  s(participant, bs='re', by=tone
                                     )
                                 )
 \end{lstlisting}
