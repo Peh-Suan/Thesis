@@ -108,7 +108,15 @@ The experiment was created with PsychoPy \citep{Peirce2019} and Javascript \cite
 \end{figure}
 
 \subsection{Analyses}
-The responses of the subjects were calculated as percentages of falling tone responses, and then fitted through GAMMs. The looseness of the fitted splines was taken as indicator of the magnitudes of perceptual compensation for tonal coarticulation.
+The responses of the subjects were calculated as percentages of falling tone responses, and then fitted through GAMMs using the \textit{lme4} package. The model is shown below. \textit{level} was taken as the predictor, and the falling tone percentage as the dependent variable, with \textit{partcipant} taken as random effect. Statistical sugnificance was calculated using the \textit{itsadug} package.
+\begin{lstlisting}
+model <- bam(formula=as.formula(falling_tone_percentage ~ level + 
+                                  s(level, by=tone) + 
+                                  s(participant, bs='re', by=tone
+                                    )
+                                )
+\end{lstlisting}
+The looseness of the fitted splines was taken as indicator of the magnitudes of perceptual compensation for tonal coarticulation.
 
 \section{Experiment 3}\label{section:Experiment3}
 To explore the relation between perceptual compensation for tonal coarticulation and strictness of tone boundaries, Experiment 3 was conducted to see whether there exists differences between the acceptance ranges of falling and low-level tones in Taiwan Mandarin speakers and Taiwan Southern Min speakers.
@@ -138,5 +146,13 @@ This experiment was conducted after Experiment 2, after a minimal 1 minute break
 \label{Figure:Experiment3Procedure}
 \end{figure}
 
-\subsection{Analyses}
-The subjects' responses were calculated as percentages and taken as acceptance rates of each of the 10 levels. The first derivatives of the acceptance rates were then fitted through GAMMs. These were taken as indicator of the rate of acceptance climb. Higher ``velocity'' of acceptance climb would indicate a stricter tone boundary, and vice versa.
+\subsection{Analyses}\label{section:E3 Analyses}
+The subjects' responses were calculated as percentages and taken as acceptance rates of each of the 10 levels. The first derivatives of the acceptance rates were then fitted through GAMMs using the \textit{lme4} package, with the model shown below. \textit{level} was taken as the predictor, and the first derivatives of the acceptance rates as the dependent variable, with \textit{partcipant} taken as random effect. Statistical sugnificance was calculated using the \textit{itsadug} package.
+\begin{lstlisting}
+model <- bam(formula=as.formula(acceptance_rate_fd ~ level + 
+                                  s(level, by=preceding_tone) + 
+                                  s(participant, bs='re', by=preceding_tone
+                                    )
+                                )
+\end{lstlisting}
+These were taken as indicator of the rate of acceptance climb. Higher ``velocity'' of acceptance climb would indicate a stricter tone boundary, and vice versa.
