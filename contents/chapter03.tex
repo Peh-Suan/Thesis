@@ -155,4 +155,4 @@ model <- bam(formula=as.formula(acceptance_rate_fd ~ level +
                                     )
                                 )
 \end{lstlisting}
-These were taken as indicator of the rate of acceptance climb. Higher maximum ``velocity'' of acceptance climb would indicate a stricter tone boundary, and vice versa.
+The maximum of the first derivatives was taken as indicators of the rate of acceptance climb, and the level where it falls was determined as the threshold of tone acceptance. Both larger maximum ``velocity'' of acceptance climb and a threshold closer to the two ends of the continuum (i.e., a lower threshold level for the low tone, and a higher threshold level for the falling tone) would indicate a stricter tone boundary, and vice versa.
