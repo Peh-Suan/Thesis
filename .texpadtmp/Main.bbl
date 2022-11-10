@@ -498,11 +498,10 @@ Li, J\BHBI C.%
 \APACrefYear{2008}.
 \unskip\
 \newblock
-\APACrefbtitle {語言接觸引發的演變–以台灣華語「給」為例
-  {[}{C}ontact-Induced Grammatical Change: {T}he Case of Gei3 in {T}aiwanese
-  {M}andarin{]}} {語言接觸引發的演變–以台灣華語「給」為例
-  {[}{C}ontact-induced grammatical change: {T}he case of gei3 in {T}aiwanese
-  {M}andarin{]}}\ \APACtypeAddressSchool {dissertation}{}{}.
+\APACrefbtitle {{C}ontact-{I}nduced {G}rammatical {C}hange: {T}he {C}ase of
+  {G}ei3 in {T}aiwanese {M}andarin} {{C}ontact-{I}nduced {G}rammatical
+  {C}hange: {T}he {C}ase of {G}ei3 in {T}aiwanese {M}andarin}\
+  \APACtypeAddressSchool {dissertation}{}{}.
 \unskip\
 \newblock
 \APACaddressSchool {Hsinchu}{National Tsing Hua University}.
@@ -556,8 +555,9 @@ Lin, H\BHBI B.%
 \APACrefYear{1988}.
 \unskip\
 \newblock
-\APACrefbtitle {Contextual stability of {T}aiwanese tones} {Contextual
-  stability of {T}aiwanese tones}\ \APACtypeAddressSchool {dissertation}{}{}.
+\APACrefbtitle {{C}ontextual {S}tability of {T}aiwanese {T}ones} {{C}ontextual
+  {S}tability of {T}aiwanese {T}ones}\ \APACtypeAddressSchool
+  {dissertation}{}{}.
 \unskip\
 \newblock
 \APACaddressSchool {Storrs}{University of Conneticut}.
@@ -845,6 +845,36 @@ Tomar, S.%
   video formats with {FF}mpeg}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Linux Journal}{146}{1}{10}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{van Rij}%
+, Wieling%
+, Baayen%
+\BCBL {}\ \BBA {} {van Rijn}%
+}{%
+{van Rij}%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+vanRijetal2020}
+\APACinsertmetastar {%
+vanRijetal2020}%
+\begin{APACrefauthors}%
+{van Rij}, J.%
+, Wieling, M.%
+, Baayen, R\BPBI H.%
+\BCBL {}\ \BBA {} {van Rijn}, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+\APACrefbtitle {{itsadug}: Interpreting Time Series and Autocorrelated Data
+  Using GAMMs.} {{itsadug}: Interpreting time series and autocorrelated data
+  using gamms.}
+\newblock
+\APACrefnote{R package version 2.4}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
