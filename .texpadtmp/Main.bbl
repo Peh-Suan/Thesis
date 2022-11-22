@@ -280,6 +280,33 @@ Francis, A.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Hanson%
+}{%
+Hanson%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+Hanson2009}
+\APACinsertmetastar {%
+Hanson2009}%
+\begin{APACrefauthors}%
+Hanson, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Effects of obstruent consonants on fundamental frequency
+  at vowel onset in {E}nglish} {Effects of obstruent consonants on fundamental
+  frequency at vowel onset in {E}nglish}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of the Acoustical Society of
+  America}{125}{1}{425--441}.
+\newblock
+\begin{APACrefDOI} \doi{10.1121/1.3021306} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Hao%
 , Wei%
 , Yanlu%
@@ -1201,14 +1228,13 @@ Yang, Y\BHBI C.%
 \APACrefYearMonthDay{2021}{}{}.
 \newblock
 {\BBOQ}\APACrefatitle
-  {台灣人出現華語與台語語碼轉換的現狀與發生契機之研究
-  ―以電視節目為分析語料 {[}{R}esearch on the status quo and driving
-  effects of {T}aiwanese-{M}andarin code-switching on {T}aiwanese people:
-  {C}orpus from television programs{]}}
-  {台灣人出現華語與台語語碼轉換的現狀與發生契機之研究
-  ―以電視節目為分析語料 {[}{R}esearch on the status quo and driving
-  effects of {T}aiwanese-{M}andarin code-switching on {T}aiwanese people:
-  {C}orpus from television programs{]}}.{\BBCQ}
+  {台灣人出現華語與台語語碼轉換的現狀與發生契機之研究---以電視節目為分析語料
+  {[}{R}esearch on the status quo and driving effects of {T}aiwanese-{M}andarin
+  code-switching on {T}aiwanese people: {C}orpus from television programs{]}}
+  {台灣人出現華語與台語語碼轉換的現狀與發生契機之研究---以電視節目為分析語料
+  {[}{R}esearch on the status quo and driving effects of {T}aiwanese-{M}andarin
+  code-switching on {T}aiwanese people: {C}orpus from television
+  programs{]}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{拓殖大學台灣研究 {[}Journal of Taiwan studies,
   Takushoku University{]}}{5}{}{91--118}.

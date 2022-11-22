@@ -50,7 +50,7 @@
 \contentsline {subsection}{\numberline {4.1.2}Directionalities and magnitudes of coarticulatory effects in the two languages}{35}{subsection.4.1.2}%
 \contentsline {section}{\numberline {4.2}Normalization for tonal coarticulation in Taiwan Mandarin and Taiwan Southern Min}{37}{section.4.2}%
 \contentsline {section}{\numberline {4.3}Tone boundaries between the low tone and the falling tone in Mandarin and Taiwan Southern Min}{39}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Summary}{40}{section.4.4}%
+\contentsline {section}{\numberline {4.4}Summary}{42}{section.4.4}%
 \contentsline {chapter}{\numberline {5}Discussion}{43}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Tonal coarticulation in Taiwan Mandarin and Taiwan Southern Min}{43}{section.5.1}%
 \contentsline {subsection}{\numberline {5.1.1}Symmetric tonal coarticulation and final prominence}{44}{subsection.5.1.1}%
@@ -59,12 +59,12 @@
 \contentsline {section}{\numberline {5.3}General perceptual compensation vs. speech-specific normalization}{50}{section.5.3}%
 \contentsline {section}{\numberline {5.4}Sectional summary}{51}{section.5.4}%
 \contentsline {chapter}{\numberline {6}Conclusions}{53}{chapter.6}%
-\contentsline {chapter}{References}{55}{section*.27}%
-\contentsline {chapter}{Appendix\nobreakspace {}{A}\nobreakspace {}---\nobreakspace {}Participant Information}{61}{section*.30}%
+\contentsline {chapter}{References}{55}{section*.28}%
+\contentsline {chapter}{Appendix\nobreakspace {}{A}\nobreakspace {}---\nobreakspace {}Participant Information}{61}{section*.31}%
 \contentsline {section}{\numberline {A.1}Monolingual group}{61}{section.6.1}%
 \contentsline {section}{\numberline {A.2}Intermediate bilingual group}{62}{section.6.2}%
 \contentsline {section}{\numberline {A.3}Advanced bilingual group}{62}{section.6.3}%
-\contentsline {chapter}{Appendix\nobreakspace {}{B}\nobreakspace {}---\nobreakspace {}Stimuli}{63}{section*.35}%
+\contentsline {chapter}{Appendix\nobreakspace {}{B}\nobreakspace {}---\nobreakspace {}Stimuli}{63}{section*.36}%
 \contentsline {section}{\numberline {B.1}Experiment 1}{63}{section.6.1}%
 \contentsline {subsection}{\numberline {B.1.1}Taiwan Mandarin stimuli}{63}{subsection.6.1.1}%
 \contentsline {subsection}{\numberline {B.1.2}Taiwan Southern Min stimuli}{63}{subsection.6.1.2}%
@@ -74,7 +74,7 @@
 \contentsline {section}{\numberline {B.3}Experiment 3}{65}{section.6.3}%
 \contentsline {subsection}{\numberline {B.3.1}Taiwan Mandarin version}{65}{subsection.6.3.1}%
 \contentsline {subsection}{\numberline {B.3.2}Taiwan Southern Min version}{66}{subsection.6.3.2}%
-\contentsline {chapter}{Appendix\nobreakspace {}{C}\nobreakspace {}---\nobreakspace {}Additional figures}{67}{section*.43}%
+\contentsline {chapter}{Appendix\nobreakspace {}{C}\nobreakspace {}---\nobreakspace {}Additional figures}{67}{section*.44}%
 \contentsline {section}{\numberline {C.1}Taiwan Mandarin and Taiwan Southern Min tone contours in carry-over and anticipatory positions}{67}{section.6.1}%
 \contentsline {subsection}{\numberline {C.1.1}Taiwan Mandarin tones in carry-over position}{68}{subsection.6.1.1}%
 \contentsline {subsection}{\numberline {C.1.2}Taiwan Southern Min tones in carry-over position}{69}{subsection.6.1.2}%

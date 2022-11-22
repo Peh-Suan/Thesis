@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.12.1)  10 NOV 2022 09:40
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.12.1)  22 NOV 2022 19:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1783,7 +1783,9 @@ File: figures/seal.pdf Graphic file (type pdf)
  [23]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 (Font)              scaled to size 10.0pt on input line 48.
-
+File: figures/seal.pdf Graphic file (type pdf)
+<use figures/seal.pdf>
+ [24]
 
 Package xeCJK Warning: Unknown CJK family `\CJKttdefault' is being ignored.
 (xeCJK)                
@@ -1801,11 +1803,6 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 6.0pt on input line 51.
 File: figures/seal.pdf Graphic file (type pdf)
 <use figures/seal.pdf>
- [24]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-File: figures/seal.pdf Graphic file (type pdf)
-<use figures/seal.pdf>
  [25]
 File: figures/seal.pdf Graphic file (type pdf)
 <use figures/seal.pdf>
@@ -1820,9 +1817,12 @@ Overfull \hbox (6.83286pt too wide) in paragraph at lines 83--84
  [][] 
  []
 
+
+Underfull \vbox (badness 1028) has occurred while \output is active []
+
 File: figures/seal.pdf Graphic file (type pdf)
 <use figures/seal.pdf>
-[28]
+ [28]
 File: figures/E2/SlideExample.jpg Graphic file (type bmp)
 <figures/E2/SlideExample.jpg>
 
@@ -1877,7 +1877,7 @@ File: figures/E1/Anticipatory_lang_seperated.png Graphic file (type bmp)
 File: figures/seal.pdf Graphic file (type pdf)
 <use figures/seal.pdf>
  [36]
-Overfull \hbox (4.49925pt too wide) in paragraph at lines 79--79
+Overfull \hbox (4.49925pt too wide) in paragraph at lines 98--98
 |[]\T1/ntxtlf/b/n/17.28 Normalization for tonal coar-tic-u-la-tion in Tai-wan Man-
  []
 
@@ -1887,60 +1887,64 @@ File: figures/E2/Mandarin_bilingual_E2_raw.png Graphic file (type bmp)
 <figures/E2/Mandarin_bilingual_E2_raw.png>
 File: figures/E2/Min_E2_raw.png Graphic file (type bmp)
 <figures/E2/Min_E2_raw.png>
+File: figures/seal.pdf Graphic file (type pdf)
+<use figures/seal.pdf>
+[37]
 File: figures/E2/Mandarin_GAMM.png Graphic file (type bmp)
 <figures/E2/Mandarin_GAMM.png>
 File: figures/E2/Mandarin_bilingual_GAMM.png Graphic file (type bmp)
 <figures/E2/Mandarin_bilingual_GAMM.png>
 File: figures/E2/Min_GAMM.png Graphic file (type bmp)
 <figures/E2/Min_GAMM.png>
-File: figures/seal.pdf Graphic file (type pdf)
-<use figures/seal.pdf>
-[37]
-
-LaTeX Warning: Text page 38 contains only floats.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-File: figures/seal.pdf Graphic file (type pdf)
-<use figures/seal.pdf>
- [38]
 File: figures/E3/Mandarin_monolingual_E3_raw.png Graphic file (type bmp)
 <figures/E3/Mandarin_monolingual_E3_raw.png>
 File: figures/E3/Mandarin_bilingual_E3_raw.png Graphic file (type bmp)
 <figures/E3/Mandarin_bilingual_E3_raw.png>
 File: figures/E3/Min_E3_raw.png Graphic file (type bmp)
 <figures/E3/Min_E3_raw.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: figures/seal.pdf Graphic file (type pdf)
+<use figures/seal.pdf>
+ [38]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: figures/seal.pdf Graphic file (type pdf)
+<use figures/seal.pdf>
+ [39]
 File: figures/E3/Tone21_speed_GAMM.png Graphic file (type bmp)
 <figures/E3/Tone21_speed_GAMM.png>
 File: figures/E3/Tone51_speed_GAMM.png Graphic file (type bmp)
 <figures/E3/Tone51_speed_GAMM.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 File: figures/seal.pdf Graphic file (type pdf)
 <use figures/seal.pdf>
- [39]
+ [40]
 File: figures/E3/Tone21_speed_GAMM_bilingual.png Graphic file (type bmp)
 <figures/E3/Tone21_speed_GAMM_bilingual.png>
 File: figures/E3/Tone51_speed_GAMM_bilingual.png Graphic file (type bmp)
 <figures/E3/Tone51_speed_GAMM_bilingual.png>
 ) (./contents/chapter05.tex
-File: figures/seal.pdf Graphic file (type pdf)
-<use figures/seal.pdf>
- [40]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 File: figures/seal.pdf Graphic file (type pdf)
 <use figures/seal.pdf>
  [41]
 File: figures/seal.pdf Graphic file (type pdf)
 <use figures/seal.pdf>
- [42
-
-]
+ [42]
 Chapter 5.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: figures/seal.pdf Graphic file (type pdf)
 <use figures/seal.pdf>
- [43]
+ [43
+
+]
 Underfull \vbox (badness 1348) has occurred while \output is active []
 
 File: figures/seal.pdf Graphic file (type pdf)
@@ -1957,7 +1961,7 @@ File: figures/Tone_acceptance_illustration_narrow.png Graphic file (type bmp)
 File: figures/seal.pdf Graphic file (type pdf)
 <use figures/seal.pdf>
  [45]
-Underfull \vbox (badness 2970) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: figures/seal.pdf Graphic file (type pdf)
 <use figures/seal.pdf>
@@ -1988,6 +1992,8 @@ File: figures/seal.pdf Graphic file (type pdf)
  [52]
 Chapter 6.
 )
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 File: figures/seal.pdf Graphic file (type pdf)
 <use figures/seal.pdf>
  [53
@@ -1995,29 +2001,26 @@ File: figures/seal.pdf Graphic file (type pdf)
 ]
 File: figures/seal.pdf Graphic file (type pdf)
 <use figures/seal.pdf>
- [54
-
-] (/Users/benson/論文/Drafts/Tex/.texpadtmp/Main.bbl
+ [54] (/Users/benson/論文/Drafts/Tex/.texpadtmp/Main.bbl
 File: figures/seal.pdf Graphic file (type pdf)
 <use figures/seal.pdf>
  [55
 
+
 ]
+File: figures/seal.pdf Graphic file (type pdf)
+<use figures/seal.pdf>
+ [56]
 
 LaTeX Font Warning: Font shape `TU/BiauKai(0)/m/it' undefined
-(Font)              using `TU/BiauKai(0)/m/n' instead on input line 535.
+(Font)              using `TU/BiauKai(0)/m/n' instead on input line 562.
 
 File: figures/seal.pdf Graphic file (type pdf)
 <use figures/seal.pdf>
-[56]
+[57]
 File: figures/seal.pdf Graphic file (type pdf)
 <use figures/seal.pdf>
- [57]
-File: figures/seal.pdf Graphic file (type pdf)
-<use figures/seal.pdf>
- [58]
-Missing character: There is no ― in font [lmroman12-regular]:mapping=tex-text;!
-) (./back/appendix01.tex
+ [58]) (./back/appendix01.tex
 File: figures/seal.pdf Graphic file (type pdf)
 <use figures/seal.pdf>
  [59]
@@ -2211,19 +2214,19 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 65.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 65.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 65.
 Package rerunfilecheck Info: File `Main.out' has not changed.
-(rerunfilecheck)             Checksum: 20F0E31F2719BDB598C75AF75889339A;6815.
+(rerunfilecheck)             Checksum: 4D2EA49E2053019A11DE5EA07A0007C8;6815.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 38448 strings out of 479418
- 759285 string characters out of 5884585
- 1291958 words of memory out of 5000000
- 55125 multiletter control sequences out of 15000+600000
+ 38452 strings out of 479418
+ 759359 string characters out of 5884585
+ 1292065 words of memory out of 5000000
+ 55129 multiletter control sequences out of 15000+600000
  589406 words of font info for 122 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 68i,16n,100p,3174b,2161s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,16n,100p,3297b,2161s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on /Users/benson/論文/Drafts/Tex/.texpadtmp/Main.pdf (88 pages).
