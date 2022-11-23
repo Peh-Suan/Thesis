@@ -43,7 +43,7 @@ However, things might be complicated when we turn to Taiwan Southern Min. In Man
 \multicolumn{1}{|l}{}& \multicolumn{1}{l||}{Lowered} & T1' (33); T3' (51) & - & - & T1' (33) & T7' (21)\\
 \hhline{--||-----}
 \end{tabularx}
-\caption{Probable variations of Taiwan Mandarin (top) and Taiwan Southern Min (bottom) lexical tones under types of coarticulation}
+\caption{Probable variations of Taiwan Mandarin (top) and Taiwan Southern Min (bottom) lexical tones under types of coarticulation.}
 \label{table:Probablevariations}
 \end{table}
 \end{flushleft}
@@ -54,12 +54,26 @@ Overall it is likely tonal coarticulations in Taiwan Mandarin and Taiwan Souther
 \begin{figure}[hbt!]
 \centering
 \begin{tikzpicture}
+
+\node [] at (5, 0)(block1_d){};
+
 \node [terminator, text width=.2\textwidth] at (5,0) (block1) {Tone production};
+\node [text width=.2\textwidth] at (5,.05) (block1_u) {};
 
-\node [terminator, text width=.2\textwidth] at (1,-2) (block2_1) {Strong tonal coarticulation};
-\node [terminator, text width=.2\textwidth ] at (9,-2) (block2_2) {Weak tonal coarticulaiton};
+\node [text width=.2\textwidth] at (5,-.05) (block1_d) {};
 
-\node [terminator, text width=.2\textwidth] at (5,-4-4) (block3) {Phonetic-level perception};
+\node [terminator, text width=.2\textwidth] at (1,-3) (block2_1) {Strong tonal coarticulation};
+
+\node [text width=.2\textwidth, text height=23] at (1-.05,-3) (block2_1_r) {};
+
+\node [text width=.2\textwidth, text height=23] at (1+.05,-3) (block2_1_l) {};
+
+\node [terminator, text width=.2\textwidth ] at (9,-3) (block2_2) {Weak tonal coarticulaiton};
+
+\node [terminator] at (5,-4-3) (block3) {Phonetic-level perception};
+
+\node [text width=.2\textwidth, text height=17] at (5-.05,-4-3) (block3_l) {};
+\node [text width=.2\textwidth, text height=17] at (5+.05,-4-3) (block3_r) {};
 
 \node[above, rotate=90] at (-2,-2) {\textbf{Speaker}};
 
@@ -67,26 +81,32 @@ Overall it is likely tonal coarticulations in Taiwan Mandarin and Taiwan Souther
 
 \node[above, rotate=90] at (-2, -9.5) {\textbf{Listener}};
 
-\node [terminator, text width=.2\textwidth] at (1,-6-4) (block4_1) {Loose tonal boundaries};
-\node [terminator, text width=.2\textwidth] at (5,-6-4) (block4_2) {Strict tonal boundaries};
+\node [terminator, text width=.2\textwidth] at (1,-6-3.5) (block4_1) {Loose tonal boundaries};
+\node [terminator, text width=.2\textwidth] at (5,-6-3.5) (block4_2) {Strict tonal boundaries};
 
-\node [terminator, text width=.2\textwidth] at (5,-8-4) (block5) {Phonemic-level perception};
+\node [terminator] at (5,-8-4) (block5) {Phonemic-level perception};
 
 \node [terminator, text width=.2\textwidth] at (5,-10-4) (block6) {Normalization};
 
-\node[draw=none] at (9-.3, -5-4) (text_1) {C};
-\node[draw=none] at (1-.3, -5-4) (text_2) {A};
-\node[draw=none] at (5-.3, -5-4) (text_3) {B};
+\node[draw=none] at (9-.3, -5-3) (text_1) {C};
+\node[draw=none] at (1-.3, -5-3) (text_2) {A};
+\node[draw=none] at (5-.3, -5-3) (text_3) {B};
 
-\path [connector, color={rgb,255: red, 76; green, 0; blue, 153}] (block1) -| (block2_1);
+\path [connector, color={rgb,255: red, 204; green, 0; blue, 0}] (block1_u) -| (block2_1_r);
+
+\path [connector, color={rgb,255: red, 0; green, 128; blue, 255}] (block1_d) -| (block2_1_l);
+
 \path [connector, color={rgb,255: red, 76; green, 153; blue, 0}] (block1) -| (block2_2);
 
-\path [connector, color={rgb,255: red, 76; green, 0; blue, 153}] (block2_1) -- (block3);
+\path [connector, color={rgb,255: red, 204; green, 0; blue, 0}] (block2_1_r) -- (block3_l);
+\path [connector, color={rgb,255: red, 0; green, 128; blue, 255}] (block2_1_l) -- (block3_r);
+
+
 \path [connector, color={rgb,255: red, 76; green, 153; blue, 0}] (block2_2) -- (block3);
 
 \path [connector, color={rgb,255: red, 204; green, 0; blue, 0}] (block3) -| (block4_1);
 \path [connector, color={rgb,255: red, 0; green, 128; blue, 255}] (block3) -- (block4_2);
-\path [connector, color={rgb,255: red, 76; green, 153; blue, 0}] (block3.east) -- (9, -4-4)|-(block5);
+\path [connector, color={rgb,255: red, 76; green, 153; blue, 0}] (block3.east) -- (9, -4-3)|-(block5);
 
 
 \path [connector, color={rgb,255: red, 204; green, 0; blue, 0}] (block4_1) |- (block5);
@@ -95,9 +115,9 @@ Overall it is likely tonal coarticulations in Taiwan Mandarin and Taiwan Souther
 \path [connector, color={rgb,255: red, 204; green, 0; blue, 0}] (block5) -- (block6);
 
 \end{tikzpicture}
-\caption{Three possible scenarios of tone perception under tonal coarticulation}
+\caption{Three possible scenarios of tone perception under tonal coarticulation.}
 \label{Figure:ThreePossibleScenarios}
 \end{figure}
-Among the three, routes B and C are not likely to lead to normalization, as the lexical tones are not perceived phonemically as other tones to start with, and therefore no compensation is in need. In route A, additional normalization will be likely since coarticulatorily -raised/-lowered tones are phonmeically recognized as other tones, and listeners may make correction based on the acknowledgement of such variation. Such a route, however, might be less probable in languages with larger inventories of lexical tones, since speakers may not know to what extent they should make the compensation. In Mandarin, a phonetically-realized high falling tone can be reasonably normalized back as a raised 21, while in Southern Min, the options can be both a raised 21 or a distorted 33. While Mandarin listeners need only know that the tone is raise, Southern Min listeners not only have to know that it is raised, but also how much, in order to facilitate faithful normalization. Simply put, the recoverability of the tones is less lower in these languages (cf. \citealp{Flemming2011}).
+Among the three, routes B and C are not likely to lead to normalization, as the lexical tones are not perceived phonemically as other tones to start with, and therefore no compensation is in need. In route A, additional normalization will be likely since coarticulatorily -raised/-lowered tones are phonmeically recognized as other tones, and listeners may make correction based on the acknowledgement of such variation. Such a route, however, might be less probable in languages with larger inventories of lexical tones, since speakers may not know to what extent they should make the compensation. In Mandarin, a phonetically-realized high falling tone can be reasonably normalized back as a raised 21, while in Southern Min, the options can be both a raised 21 or a distorted 33. While Mandarin listeners need only know that the tone is raised, Southern Min listeners not only have to know that it is raised, but also how much, in order to facilitate faithful normalization. Simply put, the recoverability of the tones is lower in these languages (cf. \citealp{Flemming2011}).
 
-In the next chapter, we shall first take a more detailed look at tonal coarticulation in (Taiwan) Mandarin and (Taiwan) Southern Min. We then review how tonal coarticulation is perceived in these two languages. In chapter 3, we talk about the experiment designs, data processing and analyses, and test results.
+In the next chapter, we shall first take a more detailed look at tonal coarticulation in (Taiwan) Mandarin and (Taiwan) Southern Min. We then review how tonal coarticulation is perceived in these two languages. In Chapters \ref{chapter:Methods} and \ref{chapter:Results}, we talk about the experiment designs, data processing and analyses, and test results. In Chapter \ref{chapter:Discussion}, we discuss the significance of the results, and Chapter \ref{chapter:Conclusions} offers the concluding remarks.
