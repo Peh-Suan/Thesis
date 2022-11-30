@@ -496,7 +496,7 @@
 %
 \XeTeXlinebreaklocale "zh"
 \XeTeXlinebreakskip = 0pt plus 1pt
-\setlength{\parskip}{10pt}
+\setlength{\parskip}{0pt}
 \setlength{\parindent}{2em}
 
 % [字體設定]
